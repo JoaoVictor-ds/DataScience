@@ -1,1 +1,1 @@
-Projetos de Análise/Ciência de dados em Python!
+Projetos de Análise de Dados
